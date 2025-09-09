@@ -1,0 +1,3 @@
+window.CONFIG = {
+  WEATHER_API_KEY: "b2024be8c564ed764512c35c213e201c"
+};
